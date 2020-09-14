@@ -1,0 +1,14 @@
+[
+    {
+        "username": "hellodit",
+        "password": "hellodit123",
+        "email": "hellodit@gmail.com",
+        "group": "admin"
+    }, 
+    {
+        "username": "helloditpub",
+        "password": "helloditpub",
+        "email": "helloditpub@gmail.com",
+        "group": "publisher"
+    }
+]
